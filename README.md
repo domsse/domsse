@@ -41,7 +41,7 @@
 	📆 2021 - ~
 </p>
 <p align="center">
- 📍 **Insurance industry** - Deutschland
+ 📍 **Insurance industry** - Germany
 </p>
 
 <h3 align="center">
