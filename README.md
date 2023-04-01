@@ -35,7 +35,7 @@
 </h3>
 
 <p align="center">
-	- 📖 **Software Engineer**\
+	- 📖 **Software Engineer**
 </p>
 <p align="center">
 	📆 2021 - ~
