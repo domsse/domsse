@@ -1,30 +1,70 @@
-<h1 align="center">Hi 👋, I'm Domenic (Domsse)</h1>
-<h3 align="center">A passionate C#, .NET software developer from germany</h3>
+<h1 align="center">
+	Hi 👋, I'm Domenic (Domsse)
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=domsse&label=Profile%20views&color=02b2de&style=flat" alt="domsse" /> </p>
-
-<p align="left"> <a href="https://twitter.com/domsse_games" target="blank"><img src="https://img.shields.io/twitter/follow/domsse_games?logo=twitter&style=for-the-badge" alt="domsse_games" /></a> </p>
-
-- 🔭 I’m currently working on **FoodyKitchen**
-
-- 🌱 I’m currently learning **Unity Game-Development**
-
-- 👨‍💻 All of my projects are available at [domsse.de](domsse.de)
-
-- 💬 Ask me about **any question you have**
-
-- 📫 How to reach me **info@domsse.de**
-
-- ⚡ Fun fact **Autoglass is called Carglass in German**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/domsse_games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domsse_games" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12213931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12213931" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/domsse interactive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="domsse interactive" height="30" width="40" /></a>
+<p align="center">
+	A passionate C#, .NET software developer from germany
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p align="center">
+	<a href="https://twitter.com/domsse_games">
+		<img src="https://img.shields.io/badge/Twitter-domsse_games-blue?logo=Twitter" />        
+	</a>
+	&nbsp;&nbsp;
+	<a href="https://stackoverflow.com/users/12213931">
+		<img src="https://img.shields.io/badge/Stack%20Overflow-xKarToSx-orange?logo=stackoverflow" />        
+	</a>
+	&nbsp;&nbsp;
+	<a href="https://www.youtube.com/@domsseinteractive816">
+		<img src="https://img.shields.io/badge/Youtube-domsse_interactive-red?logo=Youtube" />        
+	</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true&theme=dark&locale=de" alt="domsse" /></p>
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true&theme=dark&locale=de" width="400"/>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:info@domsse.de'>info@domsse.de</a>
+</p>
+
+
+
+<h3 align="center">
+	Education:
+</h3>
+
+- 📖 **Software Engineer**\
+📆 2021 - ~
+
+ 📍 **Insurance industry** - Deutschland
+
+<h3 align="center">
+	Languages and Tools:
+</h3>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/C%23-CC1993?style=flat&logo=c-sharp&color=blueviolet"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Unity-CC1993?style=flat&logo=unity&logoColor=white&color=grey"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Blender-CC1993?style=flat&logo=blender&logoColor=white&color=orange"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/.NET-MAUI-CC1993?style=flat&logo=maui&color=blue&logoColor=white"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/.NET-CC1993?style=flat&logo=dotnet&logoColor=white&color=blueviolet"/>
+	<br>
+	<img src="https://img.shields.io/badge/Firebase-CC1993?style=flat&logo=firebase&color=blue"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Oracle-CC1993?style=flat&logo=oracle&color=red"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Photoshop-CC1993?style=flat&logo=adobephotoshop&logoColor=white&color=blue"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Illustrator-CC1993?style=flat&logo=adobeillustrator&logoColor=white&color=orange"/>
+	&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Xamarin-CC1993?style=flat&logo=xamarin&color=blue&logoColor=white"/>
+</p>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=domsse&label=Profile%20views&color=02b2de&style=flat" alt="domsse" />
+</p>
