@@ -24,7 +24,7 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true&theme=dark&locale=de" width="400"/>
 </p>
 
-<p align='center'>
+<p align="center">
   📫 How to reach me: <a href='mailto:info@domsse.de'>info@domsse.de</a>
 </p>
 
@@ -34,10 +34,15 @@
 	Education:
 </h3>
 
-- 📖 **Software Engineer**\
-📆 2021 - ~
-
+<p align="center">
+	- 📖 **Software Engineer**\
+</p>
+<p align="center">
+	📆 2021 - ~
+</p>
+<p align="center">
  📍 **Insurance industry** - Deutschland
+</p>
 
 <h3 align="center">
 	Languages and Tools:
