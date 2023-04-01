@@ -45,23 +45,23 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/C%23-CC1993?style=flat&logo=c-sharp&color=blueviolet"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/Unity-CC1993?style=flat&logo=unity&logoColor=white&color=grey"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/Blender-CC1993?style=flat&logo=blender&logoColor=white&color=orange"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/.NET-MAUI-CC1993?style=flat&logo=maui&color=blue&logoColor=white"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/.NET-CC1993?style=flat&logo=dotnet&logoColor=white&color=blueviolet"/>
 	<br>
 	<img src="https://img.shields.io/badge/Firebase-CC1993?style=flat&logo=firebase&color=blue"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/Oracle-CC1993?style=flat&logo=oracle&color=red"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/Photoshop-CC1993?style=flat&logo=adobephotoshop&logoColor=white&color=blue"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/Illustrator-CC1993?style=flat&logo=adobeillustrator&logoColor=white&color=orange"/>
-	&nbsp;&nbsp;
+	&nbsp;
 	<img src="https://img.shields.io/badge/Xamarin-CC1993?style=flat&logo=xamarin&color=blue&logoColor=white"/>
 </p>
 
