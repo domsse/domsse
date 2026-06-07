@@ -26,8 +26,19 @@
 	</a>
 </p>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true" />
+</picture>
+
 <p align="center">
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domsse)](https://github.com/anuraghazra/github-readme-stats)
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true&theme=dark&locale=de" width="400"/>
 </p>
 
