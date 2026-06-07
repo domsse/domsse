@@ -27,8 +27,7 @@
 </p>
 
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=domsse/profile/streak.svg" alt="GitHub Streak" /></a>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=domsse&show_icons=true&theme=dark&locale=de" width="400"/>
+	<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
