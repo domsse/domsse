@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	Currently I am working on a relaunch of my Steam-Game Deep Madness. The name is Deep Madness Reforge. :D<br>
+	Currently I am working on a relaunch of my Steam-Game Deep Madness. The name is Deep Madness Reforge. 😅<br>
 	<a href="https://store.steampowered.com/app/1722300/Deep_Madness/">=>Deep Madness on Steam<=</a>
 </p>
 
