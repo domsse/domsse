@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-	A passionate C#, .NET software developer from germany
+	A passionate Data Warehouse, C# and .NET software developer from germany.
 </p>
 
 <p align="center">
-	Currently I am working on a relaunch of my Steam-Game Deep Madness<br>
+	Currently I am working on a relaunch of my Steam-Game Deep Madness. The name is Deep Madness Reforge. :D<br>
 	<a href="https://store.steampowered.com/app/1722300/Deep_Madness/">=>Deep Madness on Steam<=</a>
 </p>
 
