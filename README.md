@@ -41,10 +41,11 @@
 </h3>
 
 <p align="center">
-	- 📖 **Software Engineer**
+	- 📖 **Software Developer** (1)
+	- 📖 **DataWarehouse Developer** (2)
 </p>
 <p align="center">
-	📆 2021 - ~
+	📆 2021 (1) - 2026 (2) - ~
 </p>
 <p align="center">
  📍 **Insurance industry** - Germany
